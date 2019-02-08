@@ -1,0 +1,14 @@
+- tree structure
+    anytree, pypi
+
+- nodes
+    Location
+        Network
+
+    Network
+        Network
+        System
+            Component
+                Port
+                Module
+                Card
